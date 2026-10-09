@@ -1,0 +1,12 @@
+# Local user data
+users_data.dat
+
+# Compiled programs
+/main
+/main.exe
+/a.out
+*.o
+*.obj
+
+# macOS files
+.DS_Store
